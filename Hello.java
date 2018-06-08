@@ -1,4 +1,4 @@
-tpackage com.zhiyou.emp.entity;
+package com.zhiyou.emp.entity;
 
 public class Hello {
 	
@@ -6,6 +6,7 @@ public class Hello {
 		System.out.println("hello world111111");
 		System.out.println("hello world222222");
 		System.out.println("hello world333333333333");
+		System.out.println("hello world6666666666666");
 	}
 	
 }
